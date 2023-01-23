@@ -23,6 +23,10 @@ Libraries used:
 6. Screw Shield V2
 7. Potentiometer 
 
+# Project Picture 
+
+![project](https://user-images.githubusercontent.com/96635023/214028380-82069bfd-42b0-4ac2-b0e8-36e2b5dac160.jpg)
+
 
 
 
