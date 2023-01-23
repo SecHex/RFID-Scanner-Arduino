@@ -161,7 +161,7 @@ void setup()
    
   lcd.begin(16, 2);
   lcd.setCursor(0, 1);
-  lcd.print("Piotr & Yorick");
+  lcd.print("Nigeria");
   lcd.setCursor(0, 0);
   lcd.print("Project by");
   delay(2500);
@@ -234,8 +234,8 @@ void loop()
 
 if (content.substring(1) == "7E FB 38 3B")
   { 
-  Serial.println("Piotr");
-  lcd.print("Piotr wurde");
+  Serial.println("Leopard1");
+  lcd.print("Leopard1 wurde");
   lcd.setCursor(0, 1);
   lcd.print("angemeldet.");
   digitalWrite(10, LOW);
@@ -275,8 +275,8 @@ if (content.substring(1) == "74 27 CC A4")
 
 if (content.substring(1) == "71 D6 EF 1B")
   { 
-  Serial.println("Yorick");
-  lcd.print("Yorick wurde");
+  Serial.println("Nigeria");
+  lcd.print("Nigera wurde");
   lcd.setCursor(0, 1);
   lcd.print("abgemeldet.");
   digitalWrite(10, LOW);
