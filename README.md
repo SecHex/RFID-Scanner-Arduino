@@ -1,14 +1,15 @@
 # RFID-Scanner-Arduino-
 
 Libraries used:
-#include <TM1637.h>
-#include <SPI.h>
-#include <MFRC522.h>
-#include <LiquidCrystal.h>
+1. #include <TM1637.h>
+2. #include <SPI.h>
+3. #include <MFRC522.h>
+4. #include <LiquidCrystal.h>
 
 # Features
 
-Scanning UID Cards
-UID Card register
-Christmas Easter Egg
+1. Scanning UID Cards
+2. UID Card register
+3. Christmas Easter Egg
+4. Excel export 
 
