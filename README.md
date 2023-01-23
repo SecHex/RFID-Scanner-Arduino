@@ -13,3 +13,17 @@ Libraries used:
 3. Christmas Easter Egg
 4. Excel export 
 
+# Equipment
+
+LCD (Liquid Crystal Display)
+RFID (Radio Frequency Identification)
+Buzzer
+LED‘s 
+resistors
+Screw Shield V2
+Potentiometer 
+
+
+
+
+
