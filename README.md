@@ -15,13 +15,13 @@ Libraries used:
 
 # Equipment
 
-LCD (Liquid Crystal Display)
-RFID (Radio Frequency Identification)
-Buzzer
-LED‘s 
-resistors
-Screw Shield V2
-Potentiometer 
+1. LCD (Liquid Crystal Display)
+2. RFID (Radio Frequency Identification)
+3. Buzzer
+4. LED‘s 
+5. resistors
+6. Screw Shield V2
+7. Potentiometer 
 
 
 
