@@ -10,7 +10,7 @@ Libraries used:
 
 1. Scanning UID Cards
 2. UID Card register
-3. Christmas Easter Egg
+3. Easter Egg :)
 4. Excel export 
 
 # Equipment
