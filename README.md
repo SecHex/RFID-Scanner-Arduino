@@ -15,6 +15,7 @@ Libraries used:
 
 # Equipment
 
+
 1. LCD (Liquid Crystal Display)
 2. RFID (Radio Frequency Identification)
 3. Buzzer
